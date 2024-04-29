@@ -66,7 +66,7 @@ while True:
         ave = (min_val +  max_val)/2
         threshold = ave*1.1 ######################## add value to tweek ######################
         
-        print("thresh", threshold, "current_value",c_val,"DBD",DBP)##################################################### print
+        #print("thresh", threshold, "current_value",c_val,"DBD",DBP)##################################################### print
         
         #Detecting peaks
         DBP += 1
